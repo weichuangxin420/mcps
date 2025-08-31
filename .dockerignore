@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# Venv
+.venv/
+
+# Git
+.git/
+.gitignore
+
+# Others
+.DS_Store
+*.log 
